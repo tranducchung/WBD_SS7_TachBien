@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CleanCodeRefactoringVariableExtraction.iml" filepath="$PROJECT_DIR$/CleanCodeRefactoringVariableExtraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FizzBuzzTest.iml" filepath="$PROJECT_DIR$/FizzBuzzTest.iml" />
     </modules>
   </component>
 </project>
